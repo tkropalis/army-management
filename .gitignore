@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Node/Vite
+node_modules/
+frontend/dist/
+*.log
+
+# Composer/Laravel
+backend/vendor/
+backend/storage/*.key
+backend/storage/logs/*
+backend/bootstrap/cache/*
+backend/public/storage
+
+# Build artifacts
+build/
+packaging/App/
+packaging/*.exe
