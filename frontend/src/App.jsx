@@ -1,17 +1,32 @@
-import { useState } from 'react'
-import { ping } from './api'
+import { Box, Typography, CssBaseline } from '@mui/joy';
+import { CssVarsProvider, extendTheme } from '@mui/joy/styles';
+import MainTabs from './components/MainTabs/MainTabs';
+import styles from './styles/home.module.css';
+
+const theme = extendTheme({
+  colorSchemes: {
+    dark: {
+      palette: {
+        background: {
+          body: '#121212',
+        },
+      },
+    },
+  },
+});
 
 export default function App() {
-  const [msg, setMsg] = useState('Ready')
-  const handlePing = async () => {
-    try { const data = await ping(); setMsg(JSON.stringify(data)); }
-    catch (e) { setMsg(e.message) }
-  }
   return (
-    <div style={{fontFamily:'system-ui', padding:16}}>
-      <h1>Offline App (React + Laravel)</h1>
-      <p>Status: {msg}</p>
-      <button onClick={handlePing}>Ping API</button>
-    </div>
+    <CssVarsProvider theme={theme} defaultMode="dark">
+      <CssBaseline />
+      <Box className={styles.container}>
+        <Box className={styles.header}>
+          <Typography level="h1">Army Management System</Typography>
+        </Box>
+        <Box className={styles.content}>
+          <MainTabs />
+        </Box>
+      </Box>
+    </CssVarsProvider>
   )
 }

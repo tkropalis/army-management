@@ -1,0 +1,14 @@
+.container {
+  min-height: 100vh;
+  padding: 2rem;
+  background-color: var(--joy-palette-background-body);
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+}
