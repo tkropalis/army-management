@@ -2,3 +2,15 @@
   width: 100%;
   margin-top: 1rem;
 }
+
+.tabsWrapper {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.tab {
+	background-color: var(--primary-30) !important;
+	border-radius: 8px !important;
+	min-width: 8rem !important;
+}

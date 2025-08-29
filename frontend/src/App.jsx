@@ -8,7 +8,7 @@ const theme = extendTheme({
     dark: {
       palette: {
         background: {
-          body: '#121212',
+          body: 'var(--bg)',
         },
       },
     },

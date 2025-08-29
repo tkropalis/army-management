@@ -33,9 +33,9 @@ export default function MainTabs() {
         onChange={handleChange}
         sx={{ bgcolor: 'transparent' }}
       >
-        <TabList>
+        <TabList className={styles.tabsWrapper}>
           {tabs.map((tab, index) => (
-            <Tab key={index}>{tab.label}</Tab>
+            <Tab className={styles.tab} key={index}>{tab.label}</Tab>
           ))}
         </TabList>
         

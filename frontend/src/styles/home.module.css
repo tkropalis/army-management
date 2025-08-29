@@ -1,11 +1,15 @@
 .container {
   min-height: 100vh;
   padding: 2rem;
-  background-color: var(--joy-palette-background-body);
+  background-color: var(--bg);
 }
 
 .header {
   margin-bottom: 2rem;
+}
+
+.header h1 {
+	color: var(--dark) !important;
 }
 
 .content {
