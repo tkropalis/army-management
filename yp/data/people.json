@@ -1,0 +1,149 @@
+[
+	{
+		"id": 1,
+		"gun": true,
+		"skip": false
+	},
+	{
+		"id": 2,
+		"gun": false,
+		"skip": false
+	},
+	{
+		"id": 3,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 4,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 5,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 6,
+		"gun": true,
+		"skip": false
+	},
+	{
+		"id": 7,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 8,
+		"gun": false,
+		"skip": false
+	},
+	{
+		"id": 9,
+		"gun": false,
+		"skip": false
+	},
+	{
+		"id": 10,
+		"gun": false,
+		"skip": true
+	},
+	{
+		"id": 11,
+		"gun": true,
+		"skip": false
+	},
+	{
+		"id": 12,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 13,
+		"gun": false,
+		"skip": false
+	},
+	{
+		"id": 14,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 15,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 16,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 17,
+		"gun": false,
+		"skip": false
+	},
+	{
+		"id": 18,
+		"gun": true,
+		"skip": false
+	},
+	{
+		"id": 19,
+		"gun": true,
+		"skip": true
+	},
+	{
+		"id": 20,
+		"gun": true,
+		"skip": false
+	},
+	{
+		"id": 21,
+		"gun": true,
+		"skip": false
+	},
+	{
+		"id": 22,
+		"gun": false,
+		"skip": false
+	},
+	{
+		"id": 23,
+		"gun": true,
+		"skip": false,
+		"outside-skip": true,
+		"edu": true
+	},
+	{
+		"id": 24,
+		"gun": true,
+		"skip": false,
+		"edu": true
+	},
+	{
+		"id": 25,
+		"gun": false,
+		"skip": false,
+		"edu": true
+	},
+	{
+		"id": 26,
+		"gun": false,
+		"skip": false,
+		"edu": true
+	},
+	{
+		"id": 27,
+		"gun": false,
+		"skip": true,
+		"edu": true
+	},
+	{
+		"id": 28,
+		"gun": true,
+		"skip": false,
+		"edu": true
+	}
+]
