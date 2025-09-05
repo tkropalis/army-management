@@ -16,7 +16,7 @@ result.forEach(day => {
   // Print fylakia assignments
   console.log('\nFylakia Assignments:');
   if (day.fylakia.length === 0) {
-    console.log('  No fylakia assignments');
+    console.log('No fylakia assignments');
   } else {
     day.fylakia.forEach(f => {
       console.log(`  ${pad(f.location, 10)} : Person ${f.person}`);

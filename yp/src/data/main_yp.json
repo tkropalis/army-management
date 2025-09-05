@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"type": "T1",
+		"people": 1,
+		"requires_gun": false
+	},
+	{
+		"id": 2,
+		"type": "T2",
+		"people": 1,
+		"requires_gun": false
+	},
+	{
+		"id": 3,
+		"type": "T3",
+		"people": 1,
+		"requires_gun": false
+	},
+	{
+		"id": 4,
+		"type": "K",
+		"people": 2,
+		"requires_gun": true
+	}
+]

@@ -1,0 +1,177 @@
+[
+	{
+		"id": 1,
+		"gun": true,
+		"skip": false,
+		"name": "Agapitos"
+	},
+	{
+		"id": 2,
+		"gun": false,
+		"skip": false,
+		"name": "Mpilikmpasi"
+	},
+	{
+		"id": 3,
+		"gun": true,
+		"skip": true,
+		"name": "Karoutsos"
+	},
+	{
+		"id": 4,
+		"gun": true,
+		"skip": true,
+		"name": "Loupas"
+	},
+	{
+		"id": 5,
+		"gun": true,
+		"skip": true,
+		"name": "Mantse"
+	},
+	{
+		"id": 6,
+		"gun": true,
+		"skip": false,
+		"name": "Mpilikmpasi"
+	},
+	{
+		"id": 7,
+		"gun": true,
+		"skip": true,
+		"name": "Panagiotidis"
+	},
+	{
+		"id": 8,
+		"gun": false,
+		"skip": false,
+		"name": "Papadopoulos"
+	},
+	{
+		"id": 9,
+		"gun": false,
+		"skip": false,
+		"name": "Porfyridis"
+	},
+	{
+		"id": 10,
+		"gun": false,
+		"skip": true,
+		"name": "Sarksian"
+	},
+	{
+		"id": 11,
+		"gun": true,
+		"skip": false,
+		"name": "Spaxo spaxo"
+	},
+	{
+		"id": 12,
+		"gun": true,
+		"skip": true,
+		"name": "Thomaidis"
+	},
+	{
+		"id": 13,
+		"gun": false,
+		"skip": false,
+		"name": "Ntousakis"
+	},
+	{
+		"id": 14,
+		"gun": true,
+		"skip": true,
+		"name": "Xali"
+	},
+	{
+		"id": 15,
+		"gun": true,
+		"skip": true,
+		"name": "Stamatopoulos"
+	},
+	{
+		"id": 16,
+		"gun": true,
+		"skip": true,
+		"name": "Pantelaios"
+	},
+	{
+		"id": 17,
+		"gun": false,
+		"skip": false,
+		"name": "Pavlidis"
+	},
+	{
+		"id": 18,
+		"gun": true,
+		"skip": false,
+		"name": "Arvanitakis"
+	},
+	{
+		"id": 19,
+		"gun": true,
+		"skip": true,
+		"name": "Plousis"
+	},
+	{
+		"id": 20,
+		"gun": true,
+		"skip": false,
+		"name": "Traikopoulos"
+	},
+	{
+		"id": 21,
+		"gun": true,
+		"skip": false,
+		"name": "Zaxaroulas"
+	},
+	{
+		"id": 22,
+		"gun": false,
+		"skip": false,
+		"name": "Zwnthros"
+	},
+	{
+		"id": 23,
+		"gun": true,
+		"skip": false,
+		"outside-skip": true,
+		"edu": true,
+		"name": "Kropalis"
+	},
+	{
+		"id": 24,
+		"gun": true,
+		"skip": false,
+		"edu": true,
+		"name": "Latsi"
+	},
+	{
+		"id": 25,
+		"gun": false,
+		"skip": false,
+		"edu": true,
+		"name": "Mpoikos"
+	},
+	{
+		"id": 26,
+		"gun": false,
+		"skip": false,
+		"edu": true,
+		"name": "Papa"
+	},
+	{
+		"id": 27,
+		"gun": false,
+		"skip": true,
+		"edu": true,
+		"name": "Poulios"
+	},
+	{
+		"id": 28,
+		"gun": true,
+		"skip": false,
+		"edu": true,
+		"name": "Taggopoulos"
+	}
+]
