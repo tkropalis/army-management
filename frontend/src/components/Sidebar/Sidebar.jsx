@@ -64,7 +64,7 @@ export default function Sidebar({ selected, onSelect }) {
               zIndex: 1
             }}
           >
-            Navigation
+            16 EMA
           </Typography>
         </motion.div>
         
@@ -84,7 +84,7 @@ export default function Sidebar({ selected, onSelect }) {
                   onClick={() => onSelect(item.key)}
                   sx={{
                     borderRadius: '12px',
-                    p: 2,
+                    p: 1.5,
                     transition: 'all 0.15s ease',
                     position: 'relative',
                     overflow: 'hidden',
