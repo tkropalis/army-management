@@ -1,0 +1,31 @@
+.sidebar {
+  width: 220px;
+  background: var(--joy-palette-background-level1, #23272f);
+  height: 100vh;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.04);
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menuTitle {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: var(--joy-palette-text-primary, #fff);
+}
+
+.menuList {
+  width: 100%;
+}
+
+.menuItem {
+  margin-bottom: 0.5rem;
+}
+
+.menuItemSelected {
+  background: var(--joy-palette-primary-plainActiveBg, #1976d2);
+  color: #fff;
+  border-radius: 8px;
+}
